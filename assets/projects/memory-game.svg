@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" fill="none">
+  <rect width="300" height="200" fill="#fff1eb"/>
+  <rect x="50" y="40" width="70" height="90" rx="4" fill="#c6b7f5" stroke="#2d2a3a" stroke-width="3"/>
+  <rect x="130" y="40" width="70" height="90" rx="4" fill="#ffe5d9" stroke="#2d2a3a" stroke-width="3"/>
+  <rect x="210" y="40" width="40" height="90" rx="4" fill="#ff9eb5" stroke="#2d2a3a" stroke-width="3"/>
+  <text x="72" y="95" font-family="monospace" font-size="28" fill="#2d2a3a">?</text>
+  <!-- star drawn with shapes (avoids encoding issues) -->
+  <polygon points="152,58 156,72 170,72 159,80 163,94 152,86 141,94 145,80 134,72 148,72" fill="#2d2a3a"/>
+  <rect x="80" y="150" width="140" height="20" rx="2" fill="#f5d76e" stroke="#2d2a3a" stroke-width="2"/>
+</svg>
